@@ -3,13 +3,7 @@
 #Alana Fernandes - 1131892
 
 # Como acessar:
---> Abra um navegador da web, como Google Chrome ou Mozilla Firefox.
-Acessar o Link do Aplicativo:
-http://192.168.56.1:8081
-http://172.23.7.80:8081
-http://127.0.0.1:8081
-
---> Se você decidir baixar todos os arquivos aqui estão dois meios de acesso:
+Baixar todos os arquivos aqui estão dois meios de acesso:
 1. Abrir com o vscode e usar a extensão do LIVE SERVER, no arquivo index.html clique com o botão direito e utilize a opção OPEN WITH LIVE SERVER.
 2. Se você preferir abrir com o cmd coloque o seguinte caminho para acesso: start "" "C:\caminho\para\o\seu\projeto\index.html"
 
